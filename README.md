@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://zoroskr.github.io/portfolio/](https://zoroskr.github.io/newportfolio/)
+- 👨‍💻 All of my projects are available at [https://zoroskr.github.io/newportfolio/](https://zoroskr.github.io/newportfolio/)
 
 - 📫 You can look for me **as Felipe Fidalgo on Upwork (link in my bio).**
 
